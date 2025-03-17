@@ -2,6 +2,6 @@
 
 - 배운 것 끄적이기
 
-## Index
+## Category
 
-![Dart](./Dart/DartEx.md)
+- ![Dart](./Dart/DartEx.md)
