@@ -1,8 +1,21 @@
-# Today I Learned
+# 📌 TIL (Today I Learned)
 
-- 배운 것 끄적이기
+> 개발 공부 기록을 정리하는 공간입니다. 매일 새로운 내용을 추가하고 있습니다. 🚀
 
-## Category
+## 📖 목차 (Table of Contents)
 
-- ![Dart](./Dart/DartEx.md)
-- ![Spring](./Spring)
+-[Dart](./Dart/README.md)
+
+- [Dart 예제](./Dart/DartEx.md)
+
+- [Spring](./Spring/README.md)
+  - [Spring Boot RestAPI 기본 개념](./Spring/2025-03-18%20|%20Spring%20Boot%20RestAPI%20기본개념.md)
+
+## 📌 업데이트 내역
+
+- **2025-03-18**: Spring Boot REST API 학습 내용 추가
+- **2025-03-17**: Dart 예제
+
+---
+
+💡 **꾸준히 기록하며 학습을 정리합니다!**
