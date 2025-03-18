@@ -4,9 +4,9 @@
 
 ## 📖 목차 (Table of Contents)
 
--[Dart](./Dart/README.md)
+- [Dart](./Dart/README.md)
 
-- [Dart 예제](./Dart/DartEx.md)
+  - [Dart 예제](./Dart/DartEx.md)
 
 - [Spring](./Spring/README.md)
   - [Spring Boot RestAPI 기본 개념](./Spring/2025-03-18%20|%20Spring%20Boot%20RestAPI%20기본개념.md)
