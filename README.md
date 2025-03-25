@@ -10,9 +10,11 @@
 
 - [Spring](./Spring/README.md)
   - [Spring Boot RestAPI 기본 개념](./Spring/2025-03-18%20|%20Spring%20Boot%20RestAPI%20기본개념.md)
+  - [Spring Web MVC](./Spring/2025-03-25%20|%20Spring%20Web%20MVC.md)
 
 ## 📌 업데이트 내역
 
+- **2025-03-18**: Spring Web MVC 학습 내용 추가
 - **2025-03-18**: Spring Boot REST API 학습 내용 추가
 - **2025-03-17**: Dart 예제
 
