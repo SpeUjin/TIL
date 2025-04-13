@@ -19,6 +19,8 @@
 ### 📌 [`Flutter`](./Flutter/README.md)
 
 - [`Flutter 시계 예제`](./Flutter/2025-03-31_Flutter-시계-만들기.md)
+- [`Flutter UI 예제`](./Flutter/2025-04-13_Flutter-UI.md)
+- [`Flutter 계산기UI 예제`](./Flutter/2025-04-13_Flutter-계산기-UI.md)
 
 ---
 
@@ -30,6 +32,7 @@
 | 2025-03-25 | Spring Web MVC 학습 내용 추가  |
 | 2025-03-18 | Spring Boot REST API 내용 추가 |
 | 2025-03-17 | Dart 예제 추가                 |
+| 2025-04-13 | Flutter UI 예제 추가           |
 
 ---
 
