@@ -8,7 +8,7 @@
 ## 🧠 학습 개요
 
 - Spring Web MVC 패턴의 구조와 구성 요소에 대해 학습
-- 프런트컨트롤러(DispatcherServlet)의 역할과 요청 흐름 이해
+- 프런트 컨트롤러(DispatcherServlet)의 역할과 요청 흐름 이해
 
 ---
 
